@@ -1,0 +1,42 @@
+{
+  "title": "Hộ Chiếu Sầu Riêng (Durian Passport): a 6-season durian-export simulation for Vietnam–China trade",
+  "upload_type": "software",
+  "language": "vie",
+  "creators": [
+    {
+      "name": "Phan, Anh Tu",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0003-0667-3137"
+    },
+    {
+      "name": "Do, Thuy Huong",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0002-7711-2487"
+    }
+  ],
+  "description": "Hộ Chiếu Sầu Riêng (Durian Passport) là trò chơi mô phỏng một đội 5 người điều hành một mắt xích trong chuỗi xuất khẩu sầu riêng Việt Nam sang Trung Quốc qua 6 vụ, từ ngày Trung Quốc mở cửa chính ngạch (7/2022), cạnh tranh với 3 đối thủ AI. Quy định và sự kiện dựa trên Nghị định thư kiểm dịch MARD–GACC (2022). Tách từ hệ sinh thái BizOn để lưu trữ học thuật và cấp DOI qua Zenodo. / Hộ Chiếu Sầu Riêng (Durian Passport) is a simulation game in which a team of five runs one link of the Vietnam-to-China durian export chain over 6 seasons, starting from the day China opened official trade (July 2022), competing against 3 AI rivals. Rules and events are grounded in the MARD–GACC phytosanitary protocol (2022). Split out of the BizOn ecosystem for academic archiving and a Zenodo DOI.",
+  "access_right": "open",
+  "keywords": [
+    "durian",
+    "agri-food export",
+    "Vietnam",
+    "China",
+    "phytosanitary protocol",
+    "supply chain",
+    "business simulation",
+    "teaching tool"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/thuyhuongctu/BizOn",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://thuyhuongctu.github.io/BizOn/lab/ho-chieu-sau-rieng.html",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "© 2026 Phan Anh Tu & Do Thuy Huong. All rights reserved. Proprietary software – archived for transparency and citation."
+}
