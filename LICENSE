@@ -4,7 +4,8 @@ BizOn Bật Nghiệp — Business Simulation Game Ecosystem
 Bản quyền © 2026 Đỗ Thùy Hương và Phan Anh Tú.
 BẢO LƯU MỌI QUYỀN — ALL RIGHTS RESERVED.
 
-Mã định danh công bố (DOI): 10.5281/zenodo.21592241
+Mã định danh công bố (DOI) của Hộ Chiếu Sầu Riêng: 10.5281/zenodo.23307827
+(tách từ hệ sinh thái BizOn — DOI gốc: 10.5281/zenodo.21592241)
 
 1. PHẠM VI BẢO HỘ
    Toàn bộ nội dung trong kho mã nguồn này, bao gồm nhưng không giới hạn:
@@ -30,7 +31,7 @@ Mã định danh công bố (DOI): 10.5281/zenodo.21592241
      cho hoạt động GIẢNG DẠY PHI THƯƠNG MẠI (không thu phí riêng cho việc
      dùng phần mềm), kể cả in bộ phiếu khảo sát kèm theo;
    - Đọc mã nguồn cho mục đích học tập, tham khảo cá nhân;
-   - Trích dẫn học thuật kèm ghi công tác giả và DOI nêu trên;
+   - Trích dẫn học thuật kèm ghi công tác giả và DOI 10.5281/zenodo.23307827;
    - Chụp ảnh màn hình, quay video giới thiệu/đánh giá có ghi rõ nguồn.
 
 3. HÀNH VI BỊ CẤM (khi chưa có văn bản cho phép của chủ sở hữu)
@@ -65,14 +66,15 @@ ENGLISH SUMMARY
 
 BizOn Bật Nghiệp — Business Simulation Game Ecosystem
 Copyright © 2026 Do Thuy Huong and Phan Anh Tu. All rights reserved.
-Publication identifier (DOI): 10.5281/zenodo.21592241
+Publication identifier (DOI) of Hộ Chiếu Sầu Riêng: 10.5281/zenodo.23307827
+(split out of the BizOn ecosystem — parent DOI: 10.5281/zenodo.21592241)
 
 PERMITTED without prior permission: playing the app at its official URL
 (https://thuyhuongctu.github.io/BizOn/); use by instructors and educational
 institutions for NON-COMMERCIAL classroom teaching (no fee charged for the
 software itself), including printing the bundled survey forms; reading the
 source for personal learning; academic citation with attribution and the DOI
-above; screenshots and review videos with credit.
+10.5281/zenodo.23307827; screenshots and review videos with credit.
 
 PROHIBITED without prior written permission: copying, redistributing, or
 re-deploying the source in whole or in part at any other domain/repository;
