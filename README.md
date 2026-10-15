@@ -1,5 +1,7 @@
 # Hộ Chiếu Sầu Riêng (Durian Passport)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23307827.svg)](https://doi.org/10.5281/zenodo.23307827)
+
 Trò chơi mô phỏng một đội 5 người điều hành một mắt xích trong chuỗi xuất khẩu sầu riêng Việt Nam sang Trung Quốc qua 6 vụ, từ ngày Trung Quốc mở cửa chính ngạch (7/2022), cạnh tranh với 3 đối thủ AI — chạy hoàn toàn trên trình duyệt, không cần cài đặt.
 
 *A simulation game in which a team of five runs one link of the Vietnam-to-China durian export chain over 6 seasons, starting from the day China opened official trade (July 2022), competing against 3 AI rivals — runs entirely in the browser, no install needed.*
@@ -18,9 +20,13 @@ Repo này là bản sao độc lập (standalone snapshot) của Hộ Chiếu S�
 
 ## Trích dẫn / Citation
 
-Xem [`CITATION.cff`](CITATION.cff). Sau khi gắn với Zenodo, DOI sẽ được thêm vào tệp này.
+DOI: **[10.5281/zenodo.23307827](https://doi.org/10.5281/zenodo.23307827)**
 
-*See [`CITATION.cff`](CITATION.cff). The DOI will be added here once the repository is connected to Zenodo.*
+Nếu sử dụng phần mềm này trong giảng dạy hoặc nghiên cứu, vui lòng trích dẫn: / *If you use this software in teaching or research, please cite:*
+
+> Phan, A. T., & Do, T. H. (2026). *Hộ Chiếu Sầu Riêng (Durian Passport): A 6-season durian-export simulation for Vietnam–China trade* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23307827
+
+Thông tin trích dẫn đầy đủ ở [`CITATION.cff`](CITATION.cff). / *Full citation metadata is in [`CITATION.cff`](CITATION.cff).*
 
 ## Giấy phép / License
 
