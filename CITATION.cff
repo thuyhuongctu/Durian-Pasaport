@@ -4,6 +4,14 @@ title: "Hộ Chiếu Sầu Riêng (Durian Passport): a 6-season durian-export si
 type: software
 version: "1.0"
 date-released: 2026-10-11
+doi: "10.5281/zenodo.23307827"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23307827"
+    description: "Zenodo DOI của Hộ Chiếu Sầu Riêng / Zenodo DOI of Durian Passport"
+  - type: doi
+    value: "10.5281/zenodo.21592241"
+    description: "DOI của hệ sinh thái BizOn (nguồn gốc) / DOI of the parent BizOn ecosystem"
 authors:
   - family-names: "Phan"
     given-names: "Anh Tu"
