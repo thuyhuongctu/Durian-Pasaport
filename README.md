@@ -8,9 +8,9 @@ Trò chơi mô phỏng một đội 5 người điều hành một mắt xích t
 
 ## Chạy thử / Run it
 
-Mở trực tiếp `index.html` trong trình duyệt (không cần máy chủ), hoặc dùng bản đang chạy trực tuyến: **https://thuyhuongctu.github.io/BizOn/lab/ho-chieu-sau-rieng.html**
+Mở trực tiếp `index.html` trong trình duyệt (không cần máy chủ), hoặc dùng bản đang chạy trực tuyến: **https://bizonland.com/lab/ho-chieu-sau-rieng.html**
 
-Bản đồ 3D đi kèm: mở `ho-chieu-sau-rieng-3d.html`, hoặc bản trực tuyến **https://thuyhuongctu.github.io/BizOn/lab/ho-chieu-sau-rieng-3d.html**
+Bản đồ 3D đi kèm: mở `ho-chieu-sau-rieng-3d.html`, hoặc bản trực tuyến **https://bizonland.com/lab/ho-chieu-sau-rieng-3d.html**
 
 ## Nguồn gốc / Provenance
 
